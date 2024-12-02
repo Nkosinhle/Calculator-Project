@@ -1,0 +1,39 @@
+body{
+  font-family: Arial;
+  background-color: black;
+}
+.calculatorNumberButton{
+  height:60px;
+  width: 60px;
+  border-radius: 30px;
+  border: none;
+  background-color: rgb(51,51,51);
+  color: white;
+  font-size: 25px;
+  margin-right: 5px;
+  
+}
+.actionButton{
+  height:60px;
+  width: 60px;
+  border-radius: 30px;
+  border: none;
+  background-color: rgb(254, 160, 10);
+  color: white;
+  font-size: 25px; 
+  margin: 20 20;
+}
+.clearButton{
+  height:60px;
+  width: 60px;
+  border-radius: 30px;
+  border: none;
+  background-color: rgb(51,51,51);
+  color: white;
+  font-size: 17px;
+}
+.showCalculation{
+  color: white;
+  font-size: 50px;
+  margin: 0;
+}
